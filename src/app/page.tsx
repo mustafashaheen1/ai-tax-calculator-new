@@ -1,8 +1,4 @@
+// Replace src/app/page.tsx with this simple test
 export default function Home() {
-  return (
-    <div>
-      <h1>Test Page</h1>
-      <p>If you can see this, routing works!</p>
-    </div>
-  )
+  return <h1>Test - If you see this, routing works</h1>
 }
