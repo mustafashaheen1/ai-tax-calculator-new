@@ -84,7 +84,7 @@ export default function WelcomeVideoModal() {
               poster="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 450'%3E%3Crect width='800' height='450' fill='%23f3f4f6'/%3E%3Cg transform='translate(400,225)'%3E%3Ccircle r='40' fill='%23374151'/%3E%3Cpath d='M-10,-15 L-10,15 L20,0 Z' fill='white'/%3E%3C/g%3E%3Ctext x='400' y='300' text-anchor='middle' fill='%23374151' font-family='Arial' font-size='18'%3EWelcome Video%3C/text%3E%3C/svg%3E"
             >
               <source 
-                src="https://storage.googleapis.com/msgsndr/hbnmPfgq4CkZ3S5hY5EZ/media/68c1c16848a4fe6d06f6d46d.mp4" 
+                src="https://storage.googleapis.com/msgsndr/hbnmPfgq4CkZ3S5hY5EZ/media/68d19a1a83739a2edb76e300.mp4" 
                 type="video/mp4" 
               />
               Your browser does not support the video tag.
